@@ -1,4 +1,28 @@
-# brand-shop
+
+
+# Brand Shop Website
+
+## Project Features
+
+### Features 1: Navbar
+- Displays navbar in connecting avatar part.
+- After login user can see containing Image, name and logout button.
+
+### Features 2: Dashboard
+- Displays services-specific data and statistics.
+- Each services cart has image, price, title and details button.
+
+### Features 3: Details
+- Display single services details page.
+
+### Features 4: Login
+- Displays login page with validation.
+
+### Features 5: Register
+Displays register page with validation.
+
+### features 5: Customer feedback
+- customer can comment us about our brand by use in filed name and email
 3.Installation:
 firstly install server side
 npm init -y
@@ -18,9 +42,6 @@ after that i open vs code editor and setup tailwind css setup and daisyUi setup.
 4.Technologies Used:
 @emotion/react
 @emotion/styled
-@mui/icons-material
-@mui/lab
-@mui/material
 @tanstack/react-query
 axios
 firebase
