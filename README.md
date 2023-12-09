@@ -23,8 +23,7 @@ live link:https://steady-salamander-c92a13.netlify.app/
 
 ### Features 5: Register
 Displays register page with validation.
-
-### features 5: Customer feedback
+ Customer feedback
 - customer can comment us about our brand by use in filed name and email
 3.Installation:
 firstly install server side
