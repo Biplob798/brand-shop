@@ -1,6 +1,9 @@
 
 
 # Brand Shop Website
+live link:https://brand-shop-a9253.web.app
+
+live link:https://steady-salamander-c92a13.netlify.app/
 
 ## Project Features
 
